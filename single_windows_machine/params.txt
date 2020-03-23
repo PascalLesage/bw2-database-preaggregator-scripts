@@ -1,0 +1,77 @@
+//****************************************************//
+//                  Parameter values                  //
+//****************************************************//
+//
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
+//    Use this file to provide parameter values      //
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
+//
+//----------------------------------------------------//
+//----------Parameters that must be modified----------//
+//----------------------------------------------------//
+//
+result_dir=F:\bw2preagg_demo_data
+database_dir=F:\ei36co_spolds
+database_name=ecoinvent36_cutoff
+ecoinvent_version=3.6
+dest=F:\concat_demo
+//
+//----------------------------------------------------//
+//------Parameters that can safely be modified--------//
+//----------------------------------------------------//
+//
+// Used in various places:
+//------------------------
+project_name=bw2preagg_demo
+samples_batch=0
+//
+// Used in presamples generation:
+//--------------------------------
+iterations=100
+//
+// Used in lci
+//------------------------------
+parallel_jobs=2
+//
+// Used in lcia array generation:
+//--------------------------------
+method_idx=714
+result_type=probabilistic
+return_per_exchange=False
+return_totals=True
+dtype=float32
+//
+//----------------------------------------------------//
+//------Parameters you should modify only if you------//
+//------know what you are doing-----------------------//
+//----------------------------------------------------//
+//
+// Used in project_setup:
+//-----------------------
+overwrite_project=False
+overwrite_database=False
+force_write_common_files=False
+save_det_lci=True
+default_bw2setup=True
+//
+// Used in presample generation:
+//------------------------------
+overwrite_ps=True
+ps_base_name=base
+balance_water=True
+balance_land=True
+expect_base_presamples=True
+//
+// Used in lcia
+//------------------------------
+method_list_file_path="..\data\methods.json"
+dtype="float32"
+return_total=True
+ignore_missing=True
+//
+// Used in concat
+//------------------------------
+concat_result_type=LCIA
+concat_totals_or_per_exchanges=totals
+fail_if_samples_batches_different=False
+ignore_missing_concat=True
