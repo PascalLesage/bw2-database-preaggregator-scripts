@@ -1,0 +1,4342 @@
+{
+    "0": [
+        "CML 2001 (obsolete)",
+        "resources",
+        "depletion of abiotic resources"
+    ],
+    "1": [
+        "CML 2001 (obsolete)",
+        "acidification potential",
+        "average European"
+    ],
+    "2": [
+        "CML 2001 (obsolete)",
+        "acidification potential",
+        "generic"
+    ],
+    "3": [
+        "CML 2001 (obsolete)",
+        "climate change",
+        "GWP 100a"
+    ],
+    "4": [
+        "CML 2001 (obsolete)",
+        "climate change",
+        "GWP 20a"
+    ],
+    "5": [
+        "CML 2001 (obsolete)",
+        "climate change",
+        "GWP 500a"
+    ],
+    "6": [
+        "CML 2001 (obsolete)",
+        "climate change",
+        "lower limit of net GWP"
+    ],
+    "7": [
+        "CML 2001 (obsolete)",
+        "climate change",
+        "upper limit of net GWP"
+    ],
+    "8": [
+        "CML 2001 (obsolete)",
+        "eutrophication potential",
+        "average European"
+    ],
+    "9": [
+        "CML 2001 (obsolete)",
+        "eutrophication potential",
+        "generic"
+    ],
+    "10": [
+        "CML 2001 (obsolete)",
+        "freshwater aquatic ecotoxicity",
+        "FAETP 100a"
+    ],
+    "11": [
+        "CML 2001 (obsolete)",
+        "freshwater aquatic ecotoxicity",
+        "FAETP 20a"
+    ],
+    "12": [
+        "CML 2001 (obsolete)",
+        "freshwater aquatic ecotoxicity",
+        "FAETP 500a"
+    ],
+    "13": [
+        "CML 2001 (obsolete)",
+        "freshwater aquatic ecotoxicity",
+        "FAETP infinite"
+    ],
+    "14": [
+        "CML 2001 (obsolete)",
+        "freshwater sediment ecotoxicity",
+        "FSETP 100a"
+    ],
+    "15": [
+        "CML 2001 (obsolete)",
+        "freshwater sediment ecotoxicity",
+        "FSETP 20a"
+    ],
+    "16": [
+        "CML 2001 (obsolete)",
+        "freshwater sediment ecotoxicity",
+        "FSETP 500a"
+    ],
+    "17": [
+        "CML 2001 (obsolete)",
+        "freshwater sediment ecotoxicity",
+        "FSETP infinite"
+    ],
+    "18": [
+        "CML 2001 (obsolete)",
+        "human toxicity",
+        "HTP 100a"
+    ],
+    "19": [
+        "CML 2001 (obsolete)",
+        "human toxicity",
+        "HTP 20a"
+    ],
+    "20": [
+        "CML 2001 (obsolete)",
+        "human toxicity",
+        "HTP 500a"
+    ],
+    "21": [
+        "CML 2001 (obsolete)",
+        "human toxicity",
+        "HTP infinite"
+    ],
+    "22": [
+        "CML 2001 (obsolete)",
+        "ionising radiation",
+        "ionising radiation"
+    ],
+    "23": [
+        "CML 2001 (obsolete)",
+        "land use",
+        "competition"
+    ],
+    "24": [
+        "CML 2001 (obsolete)",
+        "malodours air",
+        "malodours air"
+    ],
+    "25": [
+        "CML 2001 (obsolete)",
+        "marine aquatic ecotoxicity",
+        "MAETP 100a"
+    ],
+    "26": [
+        "CML 2001 (obsolete)",
+        "marine aquatic ecotoxicity",
+        "MAETP 20a"
+    ],
+    "27": [
+        "CML 2001 (obsolete)",
+        "marine aquatic ecotoxicity",
+        "MAETP 500a"
+    ],
+    "28": [
+        "CML 2001 (obsolete)",
+        "marine aquatic ecotoxicity",
+        "MAETP infinite"
+    ],
+    "29": [
+        "CML 2001 (obsolete)",
+        "marine sediment ecotoxicity",
+        "MSETP 100a"
+    ],
+    "30": [
+        "CML 2001 (obsolete)",
+        "marine sediment ecotoxicity",
+        "MSETP 20a"
+    ],
+    "31": [
+        "CML 2001 (obsolete)",
+        "marine sediment ecotoxicity",
+        "MSETP 500a"
+    ],
+    "32": [
+        "CML 2001 (obsolete)",
+        "marine sediment ecotoxicity",
+        "MSETP infinite"
+    ],
+    "33": [
+        "CML 2001 (obsolete)",
+        "photochemical oxidation (summer smog)",
+        "EBIR"
+    ],
+    "34": [
+        "CML 2001 (obsolete)",
+        "photochemical oxidation (summer smog)",
+        "MIR"
+    ],
+    "35": [
+        "CML 2001 (obsolete)",
+        "photochemical oxidation (summer smog)",
+        "MOIR"
+    ],
+    "36": [
+        "CML 2001 (obsolete)",
+        "photochemical oxidation (summer smog)",
+        "high NOx POCP"
+    ],
+    "37": [
+        "CML 2001 (obsolete)",
+        "photochemical oxidation (summer smog)",
+        "low NOx POCP"
+    ],
+    "38": [
+        "CML 2001 (obsolete)",
+        "stratospheric ozone depletion",
+        "ODP 10a"
+    ],
+    "39": [
+        "CML 2001 (obsolete)",
+        "stratospheric ozone depletion",
+        "ODP 15a"
+    ],
+    "40": [
+        "CML 2001 (obsolete)",
+        "stratospheric ozone depletion",
+        "ODP 20a"
+    ],
+    "41": [
+        "CML 2001 (obsolete)",
+        "stratospheric ozone depletion",
+        "ODP 25a"
+    ],
+    "42": [
+        "CML 2001 (obsolete)",
+        "stratospheric ozone depletion",
+        "ODP 30a"
+    ],
+    "43": [
+        "CML 2001 (obsolete)",
+        "stratospheric ozone depletion",
+        "ODP 40a"
+    ],
+    "44": [
+        "CML 2001 (obsolete)",
+        "stratospheric ozone depletion",
+        "ODP 5a"
+    ],
+    "45": [
+        "CML 2001 (obsolete)",
+        "stratospheric ozone depletion",
+        "ODP steady state"
+    ],
+    "46": [
+        "CML 2001 (obsolete)",
+        "terrestrial ecotoxicity",
+        "TAETP 100a"
+    ],
+    "47": [
+        "CML 2001 (obsolete)",
+        "terrestrial ecotoxicity",
+        "TAETP 20a"
+    ],
+    "48": [
+        "CML 2001 (obsolete)",
+        "terrestrial ecotoxicity",
+        "TAETP 500a"
+    ],
+    "49": [
+        "CML 2001 (obsolete)",
+        "terrestrial ecotoxicity",
+        "TAETP infinite"
+    ],
+    "50": [
+        "CML 2001 w/o LT (obsolete)",
+        "resources w/o LT",
+        "depletion of abiotic resources w/o LT"
+    ],
+    "51": [
+        "CML 2001 w/o LT (obsolete)",
+        "acidification potential w/o LT",
+        "average European w/o LT"
+    ],
+    "52": [
+        "CML 2001 w/o LT (obsolete)",
+        "acidification potential w/o LT",
+        "generic w/o LT"
+    ],
+    "53": [
+        "CML 2001 w/o LT (obsolete)",
+        "climate change w/o LT",
+        "GWP 100a w/o LT"
+    ],
+    "54": [
+        "CML 2001 w/o LT (obsolete)",
+        "climate change w/o LT",
+        "GWP 20a w/o LT"
+    ],
+    "55": [
+        "CML 2001 w/o LT (obsolete)",
+        "climate change w/o LT",
+        "GWP 500a w/o LT"
+    ],
+    "56": [
+        "CML 2001 w/o LT (obsolete)",
+        "climate change w/o LT",
+        "lower limit of net GWP w/o LT"
+    ],
+    "57": [
+        "CML 2001 w/o LT (obsolete)",
+        "climate change w/o LT",
+        "upper limit of net GWP w/o LT"
+    ],
+    "58": [
+        "CML 2001 w/o LT (obsolete)",
+        "eutrophication potential w/o LT",
+        "average European w/o LT"
+    ],
+    "59": [
+        "CML 2001 w/o LT (obsolete)",
+        "eutrophication potential w/o LT",
+        "generic w/o LT"
+    ],
+    "60": [
+        "CML 2001 w/o LT (obsolete)",
+        "freshwater aquatic ecotoxicity w/o LT",
+        "FAETP 100a w/o LT"
+    ],
+    "61": [
+        "CML 2001 w/o LT (obsolete)",
+        "freshwater aquatic ecotoxicity w/o LT",
+        "FAETP 20a w/o LT"
+    ],
+    "62": [
+        "CML 2001 w/o LT (obsolete)",
+        "freshwater aquatic ecotoxicity w/o LT",
+        "FAETP 500a w/o LT"
+    ],
+    "63": [
+        "CML 2001 w/o LT (obsolete)",
+        "freshwater aquatic ecotoxicity w/o LT",
+        "FAETP infinite w/o LT"
+    ],
+    "64": [
+        "CML 2001 w/o LT (obsolete)",
+        "freshwater sediment ecotoxicity w/o LT",
+        "FSETP 100a w/o LT"
+    ],
+    "65": [
+        "CML 2001 w/o LT (obsolete)",
+        "freshwater sediment ecotoxicity w/o LT",
+        "FSETP 20a w/o LT"
+    ],
+    "66": [
+        "CML 2001 w/o LT (obsolete)",
+        "freshwater sediment ecotoxicity w/o LT",
+        "FSETP 500a w/o LT"
+    ],
+    "67": [
+        "CML 2001 w/o LT (obsolete)",
+        "freshwater sediment ecotoxicity w/o LT",
+        "FSETP infinite w/o LT"
+    ],
+    "68": [
+        "CML 2001 w/o LT (obsolete)",
+        "human toxicity w/o LT",
+        "HTP 100a w/o LT"
+    ],
+    "69": [
+        "CML 2001 w/o LT (obsolete)",
+        "human toxicity w/o LT",
+        "HTP 20a w/o LT"
+    ],
+    "70": [
+        "CML 2001 w/o LT (obsolete)",
+        "human toxicity w/o LT",
+        "HTP 500a w/o LT"
+    ],
+    "71": [
+        "CML 2001 w/o LT (obsolete)",
+        "human toxicity w/o LT",
+        "HTP infinite w/o LT"
+    ],
+    "72": [
+        "CML 2001 w/o LT (obsolete)",
+        "ionising radiation w/o LT",
+        "ionising radiation w/o LT"
+    ],
+    "73": [
+        "CML 2001 w/o LT (obsolete)",
+        "land use w/o LT",
+        "competition w/o LT"
+    ],
+    "74": [
+        "CML 2001 w/o LT (obsolete)",
+        "malodours air w/o LT",
+        "malodours air w/o LT"
+    ],
+    "75": [
+        "CML 2001 w/o LT (obsolete)",
+        "marine aquatic ecotoxicity w/o LT",
+        "MAETP 100a w/o LT"
+    ],
+    "76": [
+        "CML 2001 w/o LT (obsolete)",
+        "marine aquatic ecotoxicity w/o LT",
+        "MAETP 20a w/o LT"
+    ],
+    "77": [
+        "CML 2001 w/o LT (obsolete)",
+        "marine aquatic ecotoxicity w/o LT",
+        "MAETP 500a w/o LT"
+    ],
+    "78": [
+        "CML 2001 w/o LT (obsolete)",
+        "marine aquatic ecotoxicity w/o LT",
+        "MAETP infinite w/o LT"
+    ],
+    "79": [
+        "CML 2001 w/o LT (obsolete)",
+        "marine sediment ecotoxicity w/o LT",
+        "MSETP 100a w/o LT"
+    ],
+    "80": [
+        "CML 2001 w/o LT (obsolete)",
+        "marine sediment ecotoxicity w/o LT",
+        "MSETP 20a w/o LT"
+    ],
+    "81": [
+        "CML 2001 w/o LT (obsolete)",
+        "marine sediment ecotoxicity w/o LT",
+        "MSETP 500a w/o LT"
+    ],
+    "82": [
+        "CML 2001 w/o LT (obsolete)",
+        "marine sediment ecotoxicity w/o LT",
+        "MSETP infinite w/o LT"
+    ],
+    "83": [
+        "CML 2001 w/o LT (obsolete)",
+        "photochemical oxidation w/o LT",
+        "EBIR w/o LT"
+    ],
+    "84": [
+        "CML 2001 w/o LT (obsolete)",
+        "photochemical oxidation w/o LT",
+        "MIR w/o LT"
+    ],
+    "85": [
+        "CML 2001 w/o LT (obsolete)",
+        "photochemical oxidation w/o LT",
+        "MOIR w/o LT"
+    ],
+    "86": [
+        "CML 2001 w/o LT (obsolete)",
+        "photochemical oxidation w/o LT",
+        "high NOx POCP w/o LT"
+    ],
+    "87": [
+        "CML 2001 w/o LT (obsolete)",
+        "photochemical oxidation w/o LT",
+        "low NOx POCP w/o LT"
+    ],
+    "88": [
+        "CML 2001 w/o LT (obsolete)",
+        "stratospheric ozone depletion w/o LT",
+        "ODP 10a w/o LT"
+    ],
+    "89": [
+        "CML 2001 w/o LT (obsolete)",
+        "stratospheric ozone depletion w/o LT",
+        "ODP 15a w/o LT"
+    ],
+    "90": [
+        "CML 2001 w/o LT (obsolete)",
+        "stratospheric ozone depletion w/o LT",
+        "ODP 20a w/o LT"
+    ],
+    "91": [
+        "CML 2001 w/o LT (obsolete)",
+        "stratospheric ozone depletion w/o LT",
+        "ODP 25a w/o LT"
+    ],
+    "92": [
+        "CML 2001 w/o LT (obsolete)",
+        "stratospheric ozone depletion w/o LT",
+        "ODP 30a w/o LT"
+    ],
+    "93": [
+        "CML 2001 w/o LT (obsolete)",
+        "stratospheric ozone depletion w/o LT",
+        "ODP 40a w/o LT"
+    ],
+    "94": [
+        "CML 2001 w/o LT (obsolete)",
+        "stratospheric ozone depletion w/o LT",
+        "ODP 5a w/o LT"
+    ],
+    "95": [
+        "CML 2001 w/o LT (obsolete)",
+        "stratospheric ozone depletion w/o LT",
+        "ODP steady state w/o LT"
+    ],
+    "96": [
+        "CML 2001 w/o LT (obsolete)",
+        "terrestrial ecotoxicity w/o LT",
+        "TAETP 100a w/o LT"
+    ],
+    "97": [
+        "CML 2001 w/o LT (obsolete)",
+        "terrestrial ecotoxicity w/o LT",
+        "TAETP 20a w/o LT"
+    ],
+    "98": [
+        "CML 2001 w/o LT (obsolete)",
+        "terrestrial ecotoxicity w/o LT",
+        "TAETP 500a w/o LT"
+    ],
+    "99": [
+        "CML 2001 w/o LT (obsolete)",
+        "terrestrial ecotoxicity w/o LT",
+        "TAETP infinite w/o LT"
+    ],
+    "100": [
+        "eco-indicator 99, (E,E) (obsolete)",
+        "resources",
+        "mineral extraction"
+    ],
+    "101": [
+        "eco-indicator 99, (E,E) (obsolete)",
+        "resources",
+        "total"
+    ],
+    "102": [
+        "eco-indicator 99, (E,E) (obsolete)",
+        "total",
+        "total"
+    ],
+    "103": [
+        "eco-indicator 99, (E,E) (obsolete)",
+        "ecosystem quality",
+        "acidification & eutrophication"
+    ],
+    "104": [
+        "eco-indicator 99, (E,E) (obsolete)",
+        "ecosystem quality",
+        "ecotoxicity"
+    ],
+    "105": [
+        "eco-indicator 99, (E,E) (obsolete)",
+        "ecosystem quality",
+        "land occupation"
+    ],
+    "106": [
+        "eco-indicator 99, (E,E) (obsolete)",
+        "ecosystem quality",
+        "total"
+    ],
+    "107": [
+        "eco-indicator 99, (E,E) (obsolete)",
+        "human health",
+        "carcinogenics"
+    ],
+    "108": [
+        "eco-indicator 99, (E,E) (obsolete)",
+        "human health",
+        "climate change"
+    ],
+    "109": [
+        "eco-indicator 99, (E,E) (obsolete)",
+        "human health",
+        "ionising radiation"
+    ],
+    "110": [
+        "eco-indicator 99, (E,E) (obsolete)",
+        "human health",
+        "ozone layer depletion"
+    ],
+    "111": [
+        "eco-indicator 99, (E,E) (obsolete)",
+        "human health",
+        "respiratory effects"
+    ],
+    "112": [
+        "eco-indicator 99, (E,E) (obsolete)",
+        "human health",
+        "total"
+    ],
+    "113": [
+        "eco-indicator 99, (E,E) (obsolete)",
+        "resources",
+        "fossil fuels"
+    ],
+    "114": [
+        "eco-indicator 99, (E,E) w/o LT (obsolete)",
+        "resources w/o LT",
+        "mineral extraction w/o LT"
+    ],
+    "115": [
+        "eco-indicator 99, (E,E) w/o LT (obsolete)",
+        "resources w/o LT",
+        "total w/o LT"
+    ],
+    "116": [
+        "eco-indicator 99, (E,E) w/o LT (obsolete)",
+        "total w/o LT",
+        "total w/o LT"
+    ],
+    "117": [
+        "eco-indicator 99, (E,E) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "acidification & eutrophication w/o LT"
+    ],
+    "118": [
+        "eco-indicator 99, (E,E) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "ecotoxicity w/o LT"
+    ],
+    "119": [
+        "eco-indicator 99, (E,E) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "land occupation w/o LT"
+    ],
+    "120": [
+        "eco-indicator 99, (E,E) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "total w/o LT"
+    ],
+    "121": [
+        "eco-indicator 99, (E,E) w/o LT (obsolete)",
+        "human health w/o LT",
+        "carcinogenics w/o LT"
+    ],
+    "122": [
+        "eco-indicator 99, (E,E) w/o LT (obsolete)",
+        "human health w/o LT",
+        "climate change w/o LT"
+    ],
+    "123": [
+        "eco-indicator 99, (E,E) w/o LT (obsolete)",
+        "human health w/o LT",
+        "ionising radiation w/o LT"
+    ],
+    "124": [
+        "eco-indicator 99, (E,E) w/o LT (obsolete)",
+        "human health w/o LT",
+        "ozone layer depletion w/o LT"
+    ],
+    "125": [
+        "eco-indicator 99, (E,E) w/o LT (obsolete)",
+        "human health w/o LT",
+        "respiratory effects w/o LT"
+    ],
+    "126": [
+        "eco-indicator 99, (E,E) w/o LT (obsolete)",
+        "human health w/o LT",
+        "total w/o LT"
+    ],
+    "127": [
+        "eco-indicator 99, (E,E) w/o LT (obsolete)",
+        "resources w/o LT",
+        "fossil fuels w/o LT"
+    ],
+    "128": [
+        "eco-indicator 99, (H,A) (obsolete)",
+        "resources",
+        "mineral extraction"
+    ],
+    "129": [
+        "eco-indicator 99, (H,A) (obsolete)",
+        "resources",
+        "total"
+    ],
+    "130": [
+        "eco-indicator 99, (H,A) (obsolete)",
+        "total",
+        "total"
+    ],
+    "131": [
+        "eco-indicator 99, (H,A) (obsolete)",
+        "ecosystem quality",
+        "acidification & eutrophication"
+    ],
+    "132": [
+        "eco-indicator 99, (H,A) (obsolete)",
+        "ecosystem quality",
+        "ecotoxicity"
+    ],
+    "133": [
+        "eco-indicator 99, (H,A) (obsolete)",
+        "ecosystem quality",
+        "land occupation"
+    ],
+    "134": [
+        "eco-indicator 99, (H,A) (obsolete)",
+        "ecosystem quality",
+        "total"
+    ],
+    "135": [
+        "eco-indicator 99, (H,A) (obsolete)",
+        "human health",
+        "carcinogenics"
+    ],
+    "136": [
+        "eco-indicator 99, (H,A) (obsolete)",
+        "human health",
+        "climate change"
+    ],
+    "137": [
+        "eco-indicator 99, (H,A) (obsolete)",
+        "human health",
+        "ionising radiation"
+    ],
+    "138": [
+        "eco-indicator 99, (H,A) (obsolete)",
+        "human health",
+        "ozone layer depletion"
+    ],
+    "139": [
+        "eco-indicator 99, (H,A) (obsolete)",
+        "human health",
+        "respiratory effects"
+    ],
+    "140": [
+        "eco-indicator 99, (H,A) (obsolete)",
+        "human health",
+        "total"
+    ],
+    "141": [
+        "eco-indicator 99, (H,A) (obsolete)",
+        "resources",
+        "fossil fuels"
+    ],
+    "142": [
+        "eco-indicator 99, (H,A) w/o LT (obsolete)",
+        "resources w/o LT",
+        "mineral extraction w/o LT"
+    ],
+    "143": [
+        "eco-indicator 99, (H,A) w/o LT (obsolete)",
+        "resources w/o LT",
+        "total w/o LT"
+    ],
+    "144": [
+        "eco-indicator 99, (H,A) w/o LT (obsolete)",
+        "total w/o LT",
+        "total w/o LT"
+    ],
+    "145": [
+        "eco-indicator 99, (H,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "acidification & eutrophication w/o LT"
+    ],
+    "146": [
+        "eco-indicator 99, (H,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "ecotoxicity w/o LT"
+    ],
+    "147": [
+        "eco-indicator 99, (H,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "land occupation w/o LT"
+    ],
+    "148": [
+        "eco-indicator 99, (H,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "total w/o LT"
+    ],
+    "149": [
+        "eco-indicator 99, (H,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "carcinogenics w/o LT"
+    ],
+    "150": [
+        "eco-indicator 99, (H,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "climate change w/o LT"
+    ],
+    "151": [
+        "eco-indicator 99, (H,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "ionising radiation w/o LT"
+    ],
+    "152": [
+        "eco-indicator 99, (H,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "ozone layer depletion w/o LT"
+    ],
+    "153": [
+        "eco-indicator 99, (H,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "respiratory effects w/o LT"
+    ],
+    "154": [
+        "eco-indicator 99, (H,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "total w/o LT"
+    ],
+    "155": [
+        "eco-indicator 99, (H,A) w/o LT (obsolete)",
+        "resources w/o LT",
+        "fossil fuels w/o LT"
+    ],
+    "156": [
+        "eco-indicator 99, (I,I) (obsolete)",
+        "resources",
+        "mineral extraction"
+    ],
+    "157": [
+        "eco-indicator 99, (I,I) (obsolete)",
+        "resources",
+        "total"
+    ],
+    "158": [
+        "eco-indicator 99, (I,I) (obsolete)",
+        "total",
+        "total"
+    ],
+    "159": [
+        "eco-indicator 99, (I,I) (obsolete)",
+        "ecosystem quality",
+        "acidification & eutrophication"
+    ],
+    "160": [
+        "eco-indicator 99, (I,I) (obsolete)",
+        "ecosystem quality",
+        "ecotoxicity"
+    ],
+    "161": [
+        "eco-indicator 99, (I,I) (obsolete)",
+        "ecosystem quality",
+        "land occupation"
+    ],
+    "162": [
+        "eco-indicator 99, (I,I) (obsolete)",
+        "ecosystem quality",
+        "total"
+    ],
+    "163": [
+        "eco-indicator 99, (I,I) (obsolete)",
+        "human health",
+        "carcinogenics"
+    ],
+    "164": [
+        "eco-indicator 99, (I,I) (obsolete)",
+        "human health",
+        "climate change"
+    ],
+    "165": [
+        "eco-indicator 99, (I,I) (obsolete)",
+        "human health",
+        "ionising radiation"
+    ],
+    "166": [
+        "eco-indicator 99, (I,I) (obsolete)",
+        "human health",
+        "ozone layer depletion"
+    ],
+    "167": [
+        "eco-indicator 99, (I,I) (obsolete)",
+        "human health",
+        "respiratory effects"
+    ],
+    "168": [
+        "eco-indicator 99, (I,I) (obsolete)",
+        "human health",
+        "total"
+    ],
+    "169": [
+        "ecological scarcity 1997 (obsolete)",
+        "total",
+        "deposited waste"
+    ],
+    "170": [
+        "ecological scarcity 1997 (obsolete)",
+        "total",
+        "emission into air"
+    ],
+    "171": [
+        "ecological scarcity 1997 (obsolete)",
+        "total",
+        "emission into top-soil/groundwater"
+    ],
+    "172": [
+        "ecological scarcity 1997 (obsolete)",
+        "total",
+        "emission into water"
+    ],
+    "173": [
+        "ecological scarcity 1997 (obsolete)",
+        "total",
+        "radioactive waste"
+    ],
+    "174": [
+        "ecological scarcity 1997 (obsolete)",
+        "total",
+        "total"
+    ],
+    "175": [
+        "ecological scarcity 1997 (obsolete)",
+        "total",
+        "use of energy resources"
+    ],
+    "176": [
+        "ecological scarcity 2006 (obsolete)",
+        "total",
+        "deposited waste"
+    ],
+    "177": [
+        "ecological scarcity 2006 (obsolete)",
+        "total",
+        "emission into air"
+    ],
+    "178": [
+        "ecological scarcity 2006 (obsolete)",
+        "total",
+        "emission into groundwater"
+    ],
+    "179": [
+        "ecological scarcity 2006 (obsolete)",
+        "total",
+        "emission into surface water"
+    ],
+    "180": [
+        "ecological scarcity 2006 (obsolete)",
+        "total",
+        "emission into top soil"
+    ],
+    "181": [
+        "ecological scarcity 2006 (obsolete)",
+        "total",
+        "energy resources"
+    ],
+    "182": [
+        "ecological scarcity 2006 (obsolete)",
+        "total",
+        "natural resources"
+    ],
+    "183": [
+        "ecological scarcity 2006 (obsolete)",
+        "total",
+        "total"
+    ],
+    "184": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, antimony"
+    ],
+    "185": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, cadmium"
+    ],
+    "186": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, cerium"
+    ],
+    "187": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, copper"
+    ],
+    "188": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, molybdenum"
+    ],
+    "189": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, gold"
+    ],
+    "190": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, iron"
+    ],
+    "191": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, lanthanum"
+    ],
+    "192": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, lead"
+    ],
+    "193": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, manganese"
+    ],
+    "194": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, mercury"
+    ],
+    "195": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, nickel"
+    ],
+    "196": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, palladium"
+    ],
+    "197": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, platinum"
+    ],
+    "198": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, silver"
+    ],
+    "199": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, tantalum"
+    ],
+    "200": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, tin"
+    ],
+    "201": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, zinc"
+    ],
+    "202": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "acidification"
+    ],
+    "203": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "ecotoxicity, acute, in water"
+    ],
+    "204": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "ecotoxicity, chronic, in soil"
+    ],
+    "205": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "ecotoxicity, chronic, in water"
+    ],
+    "206": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "ecotoxicity, in sewage treatment plants"
+    ],
+    "207": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "global warming, GWP 100a"
+    ],
+    "208": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "global warming, GWP 20a"
+    ],
+    "209": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "global warming, GWP 500a"
+    ],
+    "210": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "human toxicity, via air"
+    ],
+    "211": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "human toxicity, via soil"
+    ],
+    "212": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "human toxicity, via surface water"
+    ],
+    "213": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "land filling, bulk waste"
+    ],
+    "214": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "land filling, hazardous waste"
+    ],
+    "215": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "land filling, radioactive waste"
+    ],
+    "216": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "land filling, slag and ashes"
+    ],
+    "217": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "nutrient enrichment, combined potential"
+    ],
+    "218": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "nutrient enrichment, separate N potential"
+    ],
+    "219": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "nutrient enrichment, separate P potential"
+    ],
+    "220": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "photochemical ozone formation, high NOx POCP"
+    ],
+    "221": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "photochemical ozone formation, low NOx POCP"
+    ],
+    "222": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "stratospheric ozone depletion, ODP 100a"
+    ],
+    "223": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "stratospheric ozone depletion, ODP 20a"
+    ],
+    "224": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "stratospheric ozone depletion, ODP 5a"
+    ],
+    "225": [
+        "EDIP (obsolete)",
+        "environmental impact",
+        "stratospheric ozone depletion, ODP steady state"
+    ],
+    "226": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, aluminium"
+    ],
+    "227": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, brown coal"
+    ],
+    "228": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, coal"
+    ],
+    "229": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, cobalt"
+    ],
+    "230": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, natural gas"
+    ],
+    "231": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "non-renewable resources, oil"
+    ],
+    "232": [
+        "EDIP (obsolete)",
+        "resource consumption",
+        "renewable resources, wood"
+    ],
+    "233": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, antimony w/o LT"
+    ],
+    "234": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, cadmium w/o LT"
+    ],
+    "235": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, cerium w/o LT"
+    ],
+    "236": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, copper w/o LT"
+    ],
+    "237": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, molybdenum w/o LT"
+    ],
+    "238": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, gold w/o LT"
+    ],
+    "239": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, iron w/o LT"
+    ],
+    "240": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, lanthanum w/o LT"
+    ],
+    "241": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, lead w/o LT"
+    ],
+    "242": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, manganese w/o LT"
+    ],
+    "243": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, mercury w/o LT"
+    ],
+    "244": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, nickel w/o LT"
+    ],
+    "245": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, palladium w/o LT"
+    ],
+    "246": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, platinum w/o LT"
+    ],
+    "247": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, silver w/o LT"
+    ],
+    "248": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, tantalum w/o LT"
+    ],
+    "249": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, tin w/o LT"
+    ],
+    "250": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, zinc w/o LT"
+    ],
+    "251": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "acidification w/o LT"
+    ],
+    "252": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "ecotoxicity, acute, in water w/o LT"
+    ],
+    "253": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "ecotoxicity, chronic, in soil w/o LT"
+    ],
+    "254": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "ecotoxicity, chronic, in water w/o LT"
+    ],
+    "255": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "ecotoxicity, in sewage treatment plants w/o LT"
+    ],
+    "256": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "global warming, GWP 100a w/o LT"
+    ],
+    "257": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "global warming, GWP 20a w/o LT"
+    ],
+    "258": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "global warming, GWP 500a w/o LT"
+    ],
+    "259": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "human toxicity, via air w/o LT"
+    ],
+    "260": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "human toxicity, via soil w/o LT"
+    ],
+    "261": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "human toxicity, via surface water w/o LT"
+    ],
+    "262": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "land filling, bulk waste w/o LT"
+    ],
+    "263": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "land filling, hazardous waste w/o LT"
+    ],
+    "264": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "land filling, radioactive waste w/o LT"
+    ],
+    "265": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "land filling, slag and ashes w/o LT"
+    ],
+    "266": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "nutrient enrichment, combined potential w/o LT"
+    ],
+    "267": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "nutrient enrichment, separate N potential w/o LT"
+    ],
+    "268": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "nutrient enrichment, separate P potential w/o LT"
+    ],
+    "269": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "photochemical ozone formation, high NOx POCP w/o LT"
+    ],
+    "270": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "photochemical ozone formation, low NOx POCP w/o LT"
+    ],
+    "271": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "stratospheric ozone depletion, ODP 100a w/o LT"
+    ],
+    "272": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "stratospheric ozone depletion, ODP 20a w/o LT"
+    ],
+    "273": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "stratospheric ozone depletion, ODP 5a w/o LT"
+    ],
+    "274": [
+        "EDIP w/o LT (obsolete)",
+        "environmental impact w/o LT",
+        "stratospheric ozone depletion, ODP steady state w/o LT"
+    ],
+    "275": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, aluminium w/o LT"
+    ],
+    "276": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, brown coal w/o LT"
+    ],
+    "277": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, coal w/o LT"
+    ],
+    "278": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, cobalt w/o LT"
+    ],
+    "279": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, natural gas w/o LT"
+    ],
+    "280": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "non-renewable resources, oil w/o LT"
+    ],
+    "281": [
+        "EDIP w/o LT (obsolete)",
+        "resource consumption w/o LT",
+        "renewable resources, wood w/o LT"
+    ],
+    "282": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "antimony"
+    ],
+    "283": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "cadmium"
+    ],
+    "284": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "cerium"
+    ],
+    "285": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "copper"
+    ],
+    "286": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "molybdenum"
+    ],
+    "287": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "gold"
+    ],
+    "288": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "iron"
+    ],
+    "289": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "lanthanum"
+    ],
+    "290": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "lead"
+    ],
+    "291": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "manganese"
+    ],
+    "292": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "mercury"
+    ],
+    "293": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "nickel"
+    ],
+    "294": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "palladium"
+    ],
+    "295": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "platinum"
+    ],
+    "296": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "silver"
+    ],
+    "297": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "tantalum"
+    ],
+    "298": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "tin"
+    ],
+    "299": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "zinc"
+    ],
+    "300": [
+        "EDIP2003 (obsolete)",
+        "acidification",
+        "acidification"
+    ],
+    "301": [
+        "EDIP2003 (obsolete)",
+        "ecotoxicity",
+        "acute, in water"
+    ],
+    "302": [
+        "EDIP2003 (obsolete)",
+        "ecotoxicity",
+        "chronic, in soil"
+    ],
+    "303": [
+        "EDIP2003 (obsolete)",
+        "ecotoxicity",
+        "chronic, in water"
+    ],
+    "304": [
+        "EDIP2003 (obsolete)",
+        "ecotoxicity",
+        "in sewage treatment plants"
+    ],
+    "305": [
+        "EDIP2003 (obsolete)",
+        "eutrophication",
+        "combined potential"
+    ],
+    "306": [
+        "EDIP2003 (obsolete)",
+        "eutrophication",
+        "separate N potential"
+    ],
+    "307": [
+        "EDIP2003 (obsolete)",
+        "eutrophication",
+        "separate P potential"
+    ],
+    "308": [
+        "EDIP2003 (obsolete)",
+        "eutrophication",
+        "terrestrial eutrophication"
+    ],
+    "309": [
+        "EDIP2003 (obsolete)",
+        "global warming",
+        "GWP 100a"
+    ],
+    "310": [
+        "EDIP2003 (obsolete)",
+        "global warming",
+        "GWP 20a"
+    ],
+    "311": [
+        "EDIP2003 (obsolete)",
+        "global warming",
+        "GWP 500a"
+    ],
+    "312": [
+        "EDIP2003 (obsolete)",
+        "human toxicity",
+        "via air"
+    ],
+    "313": [
+        "EDIP2003 (obsolete)",
+        "human toxicity",
+        "via soil"
+    ],
+    "314": [
+        "EDIP2003 (obsolete)",
+        "human toxicity",
+        "via surface water"
+    ],
+    "315": [
+        "EDIP2003 (obsolete)",
+        "land filling",
+        "bulk waste"
+    ],
+    "316": [
+        "EDIP2003 (obsolete)",
+        "land filling",
+        "hazardous waste"
+    ],
+    "317": [
+        "EDIP2003 (obsolete)",
+        "land filling",
+        "radioactive waste"
+    ],
+    "318": [
+        "EDIP2003 (obsolete)",
+        "land filling",
+        "slag and ashes"
+    ],
+    "319": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "aluminium"
+    ],
+    "320": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "brown coal"
+    ],
+    "321": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "coal"
+    ],
+    "322": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "cobalt"
+    ],
+    "323": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "natural gas"
+    ],
+    "324": [
+        "EDIP2003 (obsolete)",
+        "non-renewable resources",
+        "oil"
+    ],
+    "325": [
+        "EDIP2003 (obsolete)",
+        "photochemical ozone formation",
+        "impacts on human health"
+    ],
+    "326": [
+        "EDIP2003 (obsolete)",
+        "photochemical ozone formation",
+        "impacts on vegetation"
+    ],
+    "327": [
+        "EDIP2003 (obsolete)",
+        "renewable resources",
+        "wood"
+    ],
+    "328": [
+        "EDIP2003 (obsolete)",
+        "stratospheric ozone depletion",
+        "ODP total"
+    ],
+    "329": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "antimony w/o LT"
+    ],
+    "330": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "cadmium w/o LT"
+    ],
+    "331": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "cerium w/o LT"
+    ],
+    "332": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "copper w/o LT"
+    ],
+    "333": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "molybdenum w/o LT"
+    ],
+    "334": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "gold w/o LT"
+    ],
+    "335": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "iron w/o LT"
+    ],
+    "336": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "lanthanum w/o LT"
+    ],
+    "337": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "lead w/o LT"
+    ],
+    "338": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "manganese w/o LT"
+    ],
+    "339": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "mercury w/o LT"
+    ],
+    "340": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "nickel w/o LT"
+    ],
+    "341": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "palladium w/o LT"
+    ],
+    "342": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "platinum w/o LT"
+    ],
+    "343": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "silver w/o LT"
+    ],
+    "344": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "tantalum w/o LT"
+    ],
+    "345": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "tin w/o LT"
+    ],
+    "346": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "zinc w/o LT"
+    ],
+    "347": [
+        "EDIP2003 w/o LT (obsolete)",
+        "acidification w/o LT",
+        "acidification w/o LT"
+    ],
+    "348": [
+        "EDIP2003 w/o LT (obsolete)",
+        "ecotoxicity w/o LT",
+        "acute, in water w/o LT"
+    ],
+    "349": [
+        "EDIP2003 w/o LT (obsolete)",
+        "ecotoxicity w/o LT",
+        "chronic, in soil w/o LT"
+    ],
+    "350": [
+        "EDIP2003 w/o LT (obsolete)",
+        "ecotoxicity w/o LT",
+        "chronic, in water w/o LT"
+    ],
+    "351": [
+        "EDIP2003 w/o LT (obsolete)",
+        "ecotoxicity w/o LT",
+        "in sewage treatment plants w/o LT"
+    ],
+    "352": [
+        "EDIP2003 w/o LT (obsolete)",
+        "eutrophication w/o LT",
+        "combined potential w/o LT"
+    ],
+    "353": [
+        "EDIP2003 w/o LT (obsolete)",
+        "eutrophication w/o LT",
+        "separate N potential w/o LT"
+    ],
+    "354": [
+        "EDIP2003 w/o LT (obsolete)",
+        "eutrophication w/o LT",
+        "separate P potential w/o LT"
+    ],
+    "355": [
+        "EDIP2003 w/o LT (obsolete)",
+        "eutrophication w/o LT",
+        "terrestrial eutrophication w/o LT"
+    ],
+    "356": [
+        "EDIP2003 w/o LT (obsolete)",
+        "global warming w/o LT",
+        "GWP 100a w/o LT"
+    ],
+    "357": [
+        "EDIP2003 w/o LT (obsolete)",
+        "global warming w/o LT",
+        "GWP 20a w/o LT"
+    ],
+    "358": [
+        "EDIP2003 w/o LT (obsolete)",
+        "global warming w/o LT",
+        "GWP 500a w/o LT"
+    ],
+    "359": [
+        "EDIP2003 w/o LT (obsolete)",
+        "human toxicity w/o LT",
+        "via air w/o LT"
+    ],
+    "360": [
+        "EDIP2003 w/o LT (obsolete)",
+        "human toxicity w/o LT",
+        "via soil w/o LT"
+    ],
+    "361": [
+        "EDIP2003 w/o LT (obsolete)",
+        "human toxicity w/o LT",
+        "via surface water w/o LT"
+    ],
+    "362": [
+        "EDIP2003 w/o LT (obsolete)",
+        "land filling w/o LT",
+        "bulk waste w/o LT"
+    ],
+    "363": [
+        "EDIP2003 w/o LT (obsolete)",
+        "land filling w/o LT",
+        "hazardous waste w/o LT"
+    ],
+    "364": [
+        "EDIP2003 w/o LT (obsolete)",
+        "land filling w/o LT",
+        "radioactive waste w/o LT"
+    ],
+    "365": [
+        "EDIP2003 w/o LT (obsolete)",
+        "land filling w/o LT",
+        "slag and ashes w/o LT"
+    ],
+    "366": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "aluminium w/o LT"
+    ],
+    "367": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "brown coal w/o LT"
+    ],
+    "368": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "coal w/o LT"
+    ],
+    "369": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "cobalt w/o LT"
+    ],
+    "370": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "natural gas w/o LT"
+    ],
+    "371": [
+        "EDIP2003 w/o LT (obsolete)",
+        "non-renewable resources w/o LT",
+        "oil w/o LT"
+    ],
+    "372": [
+        "EDIP2003 w/o LT (obsolete)",
+        "photochemical ozone formation w/o LT",
+        "impacts on human health w/o LT"
+    ],
+    "373": [
+        "EDIP2003 w/o LT (obsolete)",
+        "photochemical ozone formation w/o LT",
+        "impacts on vegetation w/o LT"
+    ],
+    "374": [
+        "EDIP2003 w/o LT (obsolete)",
+        "renewable resources w/o LT",
+        "wood w/o LT"
+    ],
+    "375": [
+        "EDIP2003 w/o LT (obsolete)",
+        "stratospheric ozone depletion w/o LT",
+        "ODP total w/o LT"
+    ],
+    "376": [
+        "EPS 2000 (obsolete)",
+        "total",
+        "abiotic stock resources"
+    ],
+    "377": [
+        "EPS 2000 (obsolete)",
+        "total",
+        "total"
+    ],
+    "378": [
+        "EPS 2000 (obsolete)",
+        "total",
+        "emissions into air"
+    ],
+    "379": [
+        "EPS 2000 (obsolete)",
+        "total",
+        "emissions into soil"
+    ],
+    "380": [
+        "EPS 2000 (obsolete)",
+        "total",
+        "emissions into water"
+    ],
+    "381": [
+        "EPS 2000 (obsolete)",
+        "total",
+        "land occupation"
+    ],
+    "382": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "resources",
+        "mineral, fossils and renewables"
+    ],
+    "383": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "resources",
+        "mineral, fossils and renewables"
+    ],
+    "384": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "climate change",
+        "GWP 100a"
+    ],
+    "385": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "ecosystem quality",
+        "freshwater and terrestrial acidification"
+    ],
+    "386": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "ecosystem quality",
+        "freshwater ecotoxicity"
+    ],
+    "387": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "ecosystem quality",
+        "freshwater eutrophication"
+    ],
+    "388": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "ecosystem quality",
+        "ionising radiation"
+    ],
+    "389": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "ecosystem quality",
+        "marine eutrophication"
+    ],
+    "390": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "ecosystem quality",
+        "terrestrial eutrophication"
+    ],
+    "391": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "human health",
+        "carcinogenic effects"
+    ],
+    "392": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "human health",
+        "ionising radiation"
+    ],
+    "393": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "human health",
+        "non-carcinogenic effects"
+    ],
+    "394": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "human health",
+        "ozone layer depletion"
+    ],
+    "395": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "human health",
+        "photochemical ozone creation"
+    ],
+    "396": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "human health",
+        "respiratory effects, inorganics"
+    ],
+    "397": [
+        "ILCD 1.0.8 2016 midpoint (obsolete)",
+        "resources",
+        "land use"
+    ],
+    "398": [
+        "cumulative exergy demand",
+        "metals",
+        "non-renewable material resources, metals"
+    ],
+    "399": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "climate change",
+        "GWP 100a"
+    ],
+    "400": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "ecosystem quality",
+        "freshwater and terrestrial acidification"
+    ],
+    "401": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "ecosystem quality",
+        "freshwater ecotoxicity"
+    ],
+    "402": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "ecosystem quality",
+        "freshwater eutrophication"
+    ],
+    "403": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "ecosystem quality",
+        "ionising radiation"
+    ],
+    "404": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "ecosystem quality",
+        "marine eutrophication"
+    ],
+    "405": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "ecosystem quality",
+        "terrestrial eutrophication"
+    ],
+    "406": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "human health",
+        "carcinogenic effects"
+    ],
+    "407": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "human health",
+        "ionising radiation"
+    ],
+    "408": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "human health",
+        "non-carcinogenic effects"
+    ],
+    "409": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "human health",
+        "ozone layer depletion"
+    ],
+    "410": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "human health",
+        "photochemical ozone creation"
+    ],
+    "411": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "human health",
+        "respiratory effects, inorganics"
+    ],
+    "412": [
+        "ILCD 1.0.8 2016 midpoint no LT (obsolete)",
+        "resources",
+        "land use"
+    ],
+    "413": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "resources",
+        "mineral extraction"
+    ],
+    "414": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "resources",
+        "total"
+    ],
+    "415": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "climate change",
+        "climate change"
+    ],
+    "416": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "climate change",
+        "total"
+    ],
+    "417": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "ecosystem quality",
+        "aquatic ecotoxicity"
+    ],
+    "418": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "ecosystem quality",
+        "land occupation"
+    ],
+    "419": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "ecosystem quality",
+        "terrestrial acidification & nutrification"
+    ],
+    "420": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "ecosystem quality",
+        "terrestrial ecotoxicity"
+    ],
+    "421": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "ecosystem quality",
+        "total"
+    ],
+    "422": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "human health",
+        "human toxicity"
+    ],
+    "423": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "human health",
+        "ionising radiation"
+    ],
+    "424": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "human health",
+        "ozone layer depletion"
+    ],
+    "425": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "human health",
+        "photochemical oxidation"
+    ],
+    "426": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "human health",
+        "respiratory effects (inorganics)"
+    ],
+    "427": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "human health",
+        "total"
+    ],
+    "428": [
+        "IMPACT 2002+ (Endpoint) (obsolete)",
+        "resources",
+        "non-renewable energy"
+    ],
+    "429": [
+        "IMPACT 2002+ (Midpoint) (obsolete)",
+        "ecosystem quality",
+        "aquatic acidification"
+    ],
+    "430": [
+        "IMPACT 2002+ (Midpoint) (obsolete)",
+        "ecosystem quality",
+        "aquatic eutrophication"
+    ],
+    "431": [
+        "IPCC 2001 (obsolete)",
+        "climate change",
+        "GWP 100a"
+    ],
+    "432": [
+        "IPCC 2001 (obsolete)",
+        "climate change",
+        "GWP 20a"
+    ],
+    "433": [
+        "IPCC 2001 (obsolete)",
+        "climate change",
+        "GWP 500a"
+    ],
+    "434": [
+        "IPCC 2007 (obsolete)",
+        "climate change",
+        "GWP 100a"
+    ],
+    "435": [
+        "IPCC 2007 (obsolete)",
+        "climate change",
+        "GWP 20a"
+    ],
+    "436": [
+        "IPCC 2007 (obsolete)",
+        "climate change",
+        "GWP 500a"
+    ],
+    "437": [
+        "IPCC 2007 no LT (obsolete)",
+        "climate change",
+        "GWP 100a"
+    ],
+    "438": [
+        "IPCC 2007 no LT (obsolete)",
+        "climate change",
+        "GWP 20a"
+    ],
+    "439": [
+        "IPCC 2007 no LT (obsolete)",
+        "climate change",
+        "GWP 500a"
+    ],
+    "440": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "resources",
+        "metal depletion"
+    ],
+    "441": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "resources",
+        "total"
+    ],
+    "442": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "total",
+        "total"
+    ],
+    "443": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "ecosystem quality",
+        "agricultural land occupation"
+    ],
+    "444": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "ecosystem quality",
+        "climate change, ecosystems"
+    ],
+    "445": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "ecosystem quality",
+        "freshwater ecotoxicity"
+    ],
+    "446": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "ecosystem quality",
+        "freshwater eutrophication"
+    ],
+    "447": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "ecosystem quality",
+        "marine ecotoxicity"
+    ],
+    "448": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "ecosystem quality",
+        "natural land transformation"
+    ],
+    "449": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "ecosystem quality",
+        "terrestrial acidification"
+    ],
+    "450": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "ecosystem quality",
+        "terrestrial ecotoxicity"
+    ],
+    "451": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "ecosystem quality",
+        "total"
+    ],
+    "452": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "ecosystem quality",
+        "urban land occupation"
+    ],
+    "453": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "human health",
+        "climate change, human health"
+    ],
+    "454": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "human health",
+        "human toxicity"
+    ],
+    "455": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "human health",
+        "ionising radiation"
+    ],
+    "456": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "human health",
+        "ozone depletion"
+    ],
+    "457": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "human health",
+        "particulate matter formation"
+    ],
+    "458": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "human health",
+        "photochemical oxidant formation"
+    ],
+    "459": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "human health",
+        "total"
+    ],
+    "460": [
+        "ReCiPe Endpoint (E,A) (obsolete)",
+        "resources",
+        "fossil depletion"
+    ],
+    "461": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "resources w/o LT",
+        "metal depletion w/o LT"
+    ],
+    "462": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "resources w/o LT",
+        "total w/o LT"
+    ],
+    "463": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "total w/o LT",
+        "total w/o LT"
+    ],
+    "464": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "agricultural land occupation w/o LT"
+    ],
+    "465": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "climate change, ecosystems w/o LT"
+    ],
+    "466": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "freshwater ecotoxicity w/o LT"
+    ],
+    "467": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "freshwater eutrophication w/o LT"
+    ],
+    "468": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "marine ecotoxicity w/o LT"
+    ],
+    "469": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "natural land transformation w/o LT"
+    ],
+    "470": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "terrestrial acidification w/o LT"
+    ],
+    "471": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "terrestrial ecotoxicity w/o LT"
+    ],
+    "472": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "total w/o LT"
+    ],
+    "473": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "urban land occupation w/o LT"
+    ],
+    "474": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "climate change, human health w/o LT"
+    ],
+    "475": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "human toxicity w/o LT"
+    ],
+    "476": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "ionising radiation w/o LT"
+    ],
+    "477": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "ozone depletion w/o LT"
+    ],
+    "478": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "particulate matter formation w/o LT"
+    ],
+    "479": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "photochemical oxidant formation w/o LT"
+    ],
+    "480": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "total w/o LT"
+    ],
+    "481": [
+        "ReCiPe Endpoint (E,A) w/o LT (obsolete)",
+        "resources w/o LT",
+        "fossil depletion w/o LT"
+    ],
+    "482": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "resources",
+        "metal depletion"
+    ],
+    "483": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "resources",
+        "total"
+    ],
+    "484": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "total",
+        "total"
+    ],
+    "485": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "ecosystem quality",
+        "agricultural land occupation"
+    ],
+    "486": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "ecosystem quality",
+        "climate change, ecosystems"
+    ],
+    "487": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "ecosystem quality",
+        "freshwater ecotoxicity"
+    ],
+    "488": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "ecosystem quality",
+        "freshwater eutrophication"
+    ],
+    "489": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "ecosystem quality",
+        "marine ecotoxicity"
+    ],
+    "490": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "ecosystem quality",
+        "natural land transformation"
+    ],
+    "491": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "ecosystem quality",
+        "terrestrial acidification"
+    ],
+    "492": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "ecosystem quality",
+        "terrestrial ecotoxicity"
+    ],
+    "493": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "ecosystem quality",
+        "total"
+    ],
+    "494": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "ecosystem quality",
+        "urban land occupation"
+    ],
+    "495": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "human health",
+        "climate change, human health"
+    ],
+    "496": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "human health",
+        "human toxicity"
+    ],
+    "497": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "human health",
+        "ionising radiation"
+    ],
+    "498": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "human health",
+        "ozone depletion"
+    ],
+    "499": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "human health",
+        "particulate matter formation"
+    ],
+    "500": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "human health",
+        "photochemical oxidant formation"
+    ],
+    "501": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "human health",
+        "total"
+    ],
+    "502": [
+        "ReCiPe Endpoint (H,A) (obsolete)",
+        "resources",
+        "fossil depletion"
+    ],
+    "503": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "resources w/o LT",
+        "metal depletion w/o LT"
+    ],
+    "504": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "resources w/o LT",
+        "total w/o LT"
+    ],
+    "505": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "total w/o LT",
+        "total w/o LT"
+    ],
+    "506": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "agricultural land occupation w/o LT"
+    ],
+    "507": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "climate change, ecosystems w/o LT"
+    ],
+    "508": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "freshwater ecotoxicity w/o LT"
+    ],
+    "509": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "freshwater eutrophication w/o LT"
+    ],
+    "510": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "marine ecotoxicity w/o LT"
+    ],
+    "511": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "natural land transformation w/o LT"
+    ],
+    "512": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "terrestrial acidification w/o LT"
+    ],
+    "513": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "terrestrial ecotoxicity w/o LT"
+    ],
+    "514": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "total w/o LT"
+    ],
+    "515": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "ecosystem quality w/o LT",
+        "urban land occupation w/o LT"
+    ],
+    "516": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "climate change, human health w/o LT"
+    ],
+    "517": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "human toxicity w/o LT"
+    ],
+    "518": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "ionising radiation w/o LT"
+    ],
+    "519": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "ozone depletion w/o LT"
+    ],
+    "520": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "particulate matter formation w/o LT"
+    ],
+    "521": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "photochemical oxidant formation w/o LT"
+    ],
+    "522": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "human health w/o LT",
+        "total w/o LT"
+    ],
+    "523": [
+        "ReCiPe Endpoint (H,A) w/o LT (obsolete)",
+        "resources w/o LT",
+        "fossil depletion w/o LT"
+    ],
+    "524": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "resources",
+        "metal depletion"
+    ],
+    "525": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "resources",
+        "total"
+    ],
+    "526": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "total",
+        "total"
+    ],
+    "527": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "ecosystem quality",
+        "agricultural land occupation"
+    ],
+    "528": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "ecosystem quality",
+        "climate change, ecosystems"
+    ],
+    "529": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "ecosystem quality",
+        "freshwater ecotoxicity"
+    ],
+    "530": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "ecosystem quality",
+        "freshwater eutrophication"
+    ],
+    "531": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "ecosystem quality",
+        "marine ecotoxicity"
+    ],
+    "532": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "ecosystem quality",
+        "natural land transformation"
+    ],
+    "533": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "ecosystem quality",
+        "terrestrial acidification"
+    ],
+    "534": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "ecosystem quality",
+        "terrestrial ecotoxicity"
+    ],
+    "535": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "ecosystem quality",
+        "total"
+    ],
+    "536": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "ecosystem quality",
+        "urban land occupation"
+    ],
+    "537": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "human health",
+        "climate change, human health"
+    ],
+    "538": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "human health",
+        "human toxicity"
+    ],
+    "539": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "human health",
+        "ionising radiation"
+    ],
+    "540": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "human health",
+        "ozone depletion"
+    ],
+    "541": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "human health",
+        "particulate matter formation"
+    ],
+    "542": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "human health",
+        "photochemical oxidant formation"
+    ],
+    "543": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "human health",
+        "total"
+    ],
+    "544": [
+        "ReCiPe Endpoint (I,A) (obsolete)",
+        "resources",
+        "fossil depletion"
+    ],
+    "545": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "metal depletion",
+        "MDP"
+    ],
+    "546": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "agricultural land occupation",
+        "ALOP"
+    ],
+    "547": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "climate change",
+        "GWP500"
+    ],
+    "548": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "fossil depletion",
+        "FDP"
+    ],
+    "549": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "freshwater ecotoxicity",
+        "FETPinf"
+    ],
+    "550": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "freshwater eutrophication",
+        "FEP"
+    ],
+    "551": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "human toxicity",
+        "HTPinf"
+    ],
+    "552": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "ionising radiation",
+        "IRP_HE"
+    ],
+    "553": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "marine ecotoxicity",
+        "METPinf"
+    ],
+    "554": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "marine eutrophication",
+        "MEP"
+    ],
+    "555": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "natural land transformation",
+        "NLTP"
+    ],
+    "556": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "ozone depletion",
+        "ODPinf"
+    ],
+    "557": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "particulate matter formation",
+        "PMFP"
+    ],
+    "558": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "photochemical oxidant formation",
+        "POFP"
+    ],
+    "559": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "terrestrial acidification",
+        "TAP500"
+    ],
+    "560": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "terrestrial ecotoxicity",
+        "TETPinf"
+    ],
+    "561": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "urban land occupation",
+        "ULOP"
+    ],
+    "562": [
+        "ReCiPe Midpoint (E) (obsolete)",
+        "water depletion",
+        "WDP"
+    ],
+    "563": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "metal depletion w/o LT",
+        "MDP w/o LT"
+    ],
+    "564": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "agricultural land occupation w/o LT",
+        "ALOP w/o LT"
+    ],
+    "565": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "climate change w/o LT",
+        "GWP500 w/o LT"
+    ],
+    "566": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "fossil depletion w/o LT",
+        "FDP w/o LT"
+    ],
+    "567": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "freshwater ecotoxicity w/o LT",
+        "FETPinf w/o LT"
+    ],
+    "568": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "freshwater eutrophication w/o LT",
+        "FEP w/o LT"
+    ],
+    "569": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "human toxicity w/o LT",
+        "HTPinf w/o LT"
+    ],
+    "570": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "ionising radiation w/o LT",
+        "IRP_HE w/o LT"
+    ],
+    "571": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "marine ecotoxicity w/o LT",
+        "METPinf w/o LT"
+    ],
+    "572": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "marine eutrophication w/o LT",
+        "MEP w/o LT"
+    ],
+    "573": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "natural land transformation w/o LT",
+        "NLTP w/o LT"
+    ],
+    "574": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "ozone depletion w/o LT",
+        "ODPinf w/o LT"
+    ],
+    "575": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "particulate matter formation w/o LT",
+        "PMFP w/o LT"
+    ],
+    "576": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "photochemical oxidant formation w/o LT",
+        "POFP w/o LT"
+    ],
+    "577": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "terrestrial acidification w/o LT",
+        "TAP500 w/o LT"
+    ],
+    "578": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "terrestrial ecotoxicity w/o LT",
+        "TETPinf w/o LT"
+    ],
+    "579": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "urban land occupation w/o LT",
+        "ULOP w/o LT"
+    ],
+    "580": [
+        "ReCiPe Midpoint (E) w/o LT (obsolete)",
+        "water depletion w/o LT",
+        "WDP w/o LT"
+    ],
+    "581": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "metal depletion",
+        "MDP"
+    ],
+    "582": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "agricultural land occupation",
+        "ALOP"
+    ],
+    "583": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "climate change",
+        "GWP100"
+    ],
+    "584": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "fossil depletion",
+        "FDP"
+    ],
+    "585": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "freshwater ecotoxicity",
+        "FETPinf"
+    ],
+    "586": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "freshwater eutrophication",
+        "FEP"
+    ],
+    "587": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "human toxicity",
+        "HTPinf"
+    ],
+    "588": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "ionising radiation",
+        "IRP_HE"
+    ],
+    "589": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "marine ecotoxicity",
+        "METPinf"
+    ],
+    "590": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "marine eutrophication",
+        "MEP"
+    ],
+    "591": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "natural land transformation",
+        "NLTP"
+    ],
+    "592": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "ozone depletion",
+        "ODPinf"
+    ],
+    "593": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "particulate matter formation",
+        "PMFP"
+    ],
+    "594": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "photochemical oxidant formation",
+        "POFP"
+    ],
+    "595": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "terrestrial acidification",
+        "TAP100"
+    ],
+    "596": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "terrestrial ecotoxicity",
+        "TETPinf"
+    ],
+    "597": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "urban land occupation",
+        "ULOP"
+    ],
+    "598": [
+        "ReCiPe Midpoint (H) (obsolete)",
+        "water depletion",
+        "WDP"
+    ],
+    "599": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "metal depletion w/o LT",
+        "MDP w/o LT"
+    ],
+    "600": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "agricultural land occupation w/o LT",
+        "ALOP w/o LT"
+    ],
+    "601": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "climate change w/o LT",
+        "GWP100 w/o LT"
+    ],
+    "602": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "fossil depletion w/o LT",
+        "FDP w/o LT"
+    ],
+    "603": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "freshwater ecotoxicity w/o LT",
+        "FETPinf w/o LT"
+    ],
+    "604": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "freshwater eutrophication w/o LT",
+        "FEP w/o LT"
+    ],
+    "605": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "human toxicity w/o LT",
+        "HTPinf w/o LT"
+    ],
+    "606": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "ionising radiation w/o LT",
+        "IRP_HE w/o LT"
+    ],
+    "607": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "marine ecotoxicity w/o LT",
+        "METPinf w/o LT"
+    ],
+    "608": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "marine eutrophication w/o LT",
+        "MEP w/o LT"
+    ],
+    "609": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "natural land transformation w/o LT",
+        "NLTP w/o LT"
+    ],
+    "610": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "ozone depletion w/o LT",
+        "ODPinf w/o LT"
+    ],
+    "611": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "particulate matter formation w/o LT",
+        "PMFP w/o LT"
+    ],
+    "612": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "photochemical oxidant formation w/o LT",
+        "POFP w/o LT"
+    ],
+    "613": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "terrestrial acidification w/o LT",
+        "TAP100 w/o LT"
+    ],
+    "614": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "terrestrial ecotoxicity w/o LT",
+        "TETPinf w/o LT"
+    ],
+    "615": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "urban land occupation w/o LT",
+        "ULOP w/o LT"
+    ],
+    "616": [
+        "ReCiPe Midpoint (H) w/o LT (obsolete)",
+        "water depletion w/o LT",
+        "WDP w/o LT"
+    ],
+    "617": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "metal depletion",
+        "MDP"
+    ],
+    "618": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "agricultural land occupation",
+        "ALOP"
+    ],
+    "619": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "climate change",
+        "GWP20"
+    ],
+    "620": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "fossil depletion",
+        "FDP"
+    ],
+    "621": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "freshwater ecotoxicity",
+        "FETP100"
+    ],
+    "622": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "freshwater eutrophication",
+        "FEP"
+    ],
+    "623": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "human toxicity",
+        "HTP100"
+    ],
+    "624": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "ionising radiation",
+        "IRP_I"
+    ],
+    "625": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "marine ecotoxicity",
+        "METP100"
+    ],
+    "626": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "marine eutrophication",
+        "MEP"
+    ],
+    "627": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "natural land transformation",
+        "NLTP"
+    ],
+    "628": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "ozone depletion",
+        "ODPinf"
+    ],
+    "629": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "particulate matter formation",
+        "PMFP"
+    ],
+    "630": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "photochemical oxidant formation",
+        "POFP"
+    ],
+    "631": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "terrestrial acidification",
+        "TAP20"
+    ],
+    "632": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "terrestrial ecotoxicity",
+        "TETP100"
+    ],
+    "633": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "urban land occupation",
+        "ULOP"
+    ],
+    "634": [
+        "ReCiPe Midpoint (I) (obsolete)",
+        "water depletion",
+        "WDP"
+    ],
+    "635": [
+        "TRACI (obsolete)",
+        "environmental impact",
+        "acidification"
+    ],
+    "636": [
+        "TRACI (obsolete)",
+        "environmental impact",
+        "ecotoxicity"
+    ],
+    "637": [
+        "TRACI (obsolete)",
+        "environmental impact",
+        "eutrophication"
+    ],
+    "638": [
+        "TRACI (obsolete)",
+        "environmental impact",
+        "global warming"
+    ],
+    "639": [
+        "TRACI (obsolete)",
+        "environmental impact",
+        "ozone depletion"
+    ],
+    "640": [
+        "TRACI (obsolete)",
+        "environmental impact",
+        "photochemical oxidation"
+    ],
+    "641": [
+        "TRACI (obsolete)",
+        "human health",
+        "carcinogenics"
+    ],
+    "642": [
+        "TRACI (obsolete)",
+        "human health",
+        "non-carcinogenics"
+    ],
+    "643": [
+        "TRACI (obsolete)",
+        "human health",
+        "respiratory effects, average"
+    ],
+    "644": [
+        "USEtox (obsolete)",
+        "ecotoxicity",
+        "total"
+    ],
+    "645": [
+        "USEtox (obsolete)",
+        "human toxicity",
+        "carcinogenic"
+    ],
+    "646": [
+        "USEtox (obsolete)",
+        "human toxicity",
+        "non-carcinogenic"
+    ],
+    "647": [
+        "USEtox (obsolete)",
+        "human toxicity",
+        "total"
+    ],
+    "648": [
+        "USEtox w/o LT (obsolete)",
+        "ecotoxicity w/o LT",
+        "total w/o LT"
+    ],
+    "649": [
+        "USEtox w/o LT (obsolete)",
+        "human toxicity w/o LT",
+        "carcinogenic w/o LT"
+    ],
+    "650": [
+        "USEtox w/o LT (obsolete)",
+        "human toxicity w/o LT",
+        "non-carcinogenic w/o LT"
+    ],
+    "651": [
+        "USEtox w/o LT (obsolete)",
+        "human toxicity w/o LT",
+        "total w/o LT"
+    ],
+    "652": [
+        "ReCiPe Midpoint (E) V1.13",
+        "freshwater ecotoxicity",
+        "FETPinf"
+    ],
+    "653": [
+        "ReCiPe Midpoint (E) V1.13",
+        "human toxicity",
+        "HTPinf"
+    ],
+    "654": [
+        "ReCiPe Midpoint (E) V1.13",
+        "marine ecotoxicity",
+        "METPinf"
+    ],
+    "655": [
+        "ReCiPe Midpoint (E) V1.13",
+        "terrestrial ecotoxicity",
+        "TETPinf"
+    ],
+    "656": [
+        "ReCiPe Midpoint (H) V1.13",
+        "freshwater ecotoxicity",
+        "FETPinf"
+    ],
+    "657": [
+        "ReCiPe Midpoint (H) V1.13",
+        "human toxicity",
+        "HTPinf"
+    ],
+    "658": [
+        "ReCiPe Midpoint (H) V1.13",
+        "marine ecotoxicity",
+        "METPinf"
+    ],
+    "659": [
+        "ReCiPe Midpoint (H) V1.13",
+        "terrestrial ecotoxicity",
+        "TETPinf"
+    ],
+    "660": [
+        "ReCiPe Midpoint (I) V1.13",
+        "freshwater ecotoxicity",
+        "FETP100"
+    ],
+    "661": [
+        "ReCiPe Midpoint (I) V1.13",
+        "human toxicity",
+        "HTP100"
+    ],
+    "662": [
+        "ReCiPe Midpoint (I) V1.13",
+        "marine ecotoxicity",
+        "METP100"
+    ],
+    "663": [
+        "ReCiPe Midpoint (I) V1.13",
+        "terrestrial ecotoxicity",
+        "TETP100"
+    ],
+    "664": [
+        "ILCD 2.0 2018 midpoint",
+        "ecosystem quality",
+        "freshwater ecotoxicity"
+    ],
+    "665": [
+        "ILCD 2.0 2018 midpoint",
+        "human health",
+        "non-carcinogenic effects"
+    ],
+    "666": [
+        "ILCD 2.0 2018 midpoint",
+        "human health",
+        "carcinogenic effects"
+    ],
+    "667": [
+        "ecological scarcity 2013",
+        "mineral resources",
+        "total"
+    ],
+    "668": [
+        "ecological scarcity 2013",
+        "total",
+        "total"
+    ],
+    "669": [
+        "ecological scarcity 2013 no LT",
+        "mineral resources",
+        "total"
+    ],
+    "670": [
+        "ecological scarcity 2013 no LT",
+        "total",
+        "total"
+    ],
+    "671": [
+        "cumulative exergy demand",
+        "minerals",
+        "non-renewable material resources, minerals"
+    ],
+    "672": [
+        "ILCD 2.0 2018 midpoint",
+        "resources",
+        "minerals and metals"
+    ],
+    "673": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "resources",
+        "minerals and metals"
+    ],
+    "674": [
+        "ReCiPe Midpoint (E) V1.13",
+        "metal depletion",
+        "MDP"
+    ],
+    "675": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "metal depletion",
+        "MDP"
+    ],
+    "676": [
+        "ReCiPe Midpoint (H) V1.13",
+        "metal depletion",
+        "MDP"
+    ],
+    "677": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "metal depletion",
+        "MDP"
+    ],
+    "678": [
+        "ReCiPe Midpoint (I) V1.13",
+        "metal depletion",
+        "MDP"
+    ],
+    "679": [
+        "ILCD 2.0 2018 midpoint",
+        "climate change",
+        "climate change biogenic"
+    ],
+    "680": [
+        "ILCD 2.0 2018 midpoint",
+        "climate change",
+        "climate change fossil"
+    ],
+    "681": [
+        "ILCD 2.0 2018 midpoint",
+        "climate change",
+        "climate change land use and land use change"
+    ],
+    "682": [
+        "ILCD 2.0 2018 midpoint",
+        "climate change",
+        "climate change total"
+    ],
+    "683": [
+        "ILCD 2.0 2018 midpoint",
+        "ecosystem quality",
+        "freshwater and terrestrial acidification"
+    ],
+    "684": [
+        "ILCD 2.0 2018 midpoint",
+        "ecosystem quality",
+        "freshwater eutrophication"
+    ],
+    "685": [
+        "ILCD 2.0 2018 midpoint",
+        "ecosystem quality",
+        "marine eutrophication"
+    ],
+    "686": [
+        "ILCD 2.0 2018 midpoint",
+        "ecosystem quality",
+        "terrestrial eutrophication"
+    ],
+    "687": [
+        "ILCD 2.0 2018 midpoint",
+        "human health",
+        "ionising radiation"
+    ],
+    "688": [
+        "ILCD 2.0 2018 midpoint",
+        "human health",
+        "ozone layer depletion"
+    ],
+    "689": [
+        "ILCD 2.0 2018 midpoint",
+        "human health",
+        "photochemical ozone creation"
+    ],
+    "690": [
+        "ILCD 2.0 2018 midpoint",
+        "human health",
+        "respiratory effects, inorganics"
+    ],
+    "691": [
+        "ILCD 2.0 2018 midpoint",
+        "resources",
+        "dissipated water"
+    ],
+    "692": [
+        "ILCD 2.0 2018 midpoint",
+        "resources",
+        "fossils"
+    ],
+    "693": [
+        "ILCD 2.0 2018 midpoint",
+        "resources",
+        "land use"
+    ],
+    "694": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "climate change",
+        "climate change biogenic"
+    ],
+    "695": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "climate change",
+        "climate change fossil"
+    ],
+    "696": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "climate change",
+        "climate change land use and land use change"
+    ],
+    "697": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "climate change",
+        "climate change total"
+    ],
+    "698": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "ecosystem quality",
+        "freshwater and terrestrial acidification"
+    ],
+    "699": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "ecosystem quality",
+        "freshwater ecotoxicity"
+    ],
+    "700": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "ecosystem quality",
+        "freshwater eutrophication"
+    ],
+    "701": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "ecosystem quality",
+        "marine eutrophication"
+    ],
+    "702": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "ecosystem quality",
+        "terrestrial eutrophication"
+    ],
+    "703": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "human health",
+        "carcinogenic effects"
+    ],
+    "704": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "human health",
+        "ionising radiation"
+    ],
+    "705": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "human health",
+        "non-carcinogenic effects"
+    ],
+    "706": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "human health",
+        "ozone layer depletion"
+    ],
+    "707": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "human health",
+        "photochemical ozone creation"
+    ],
+    "708": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "human health",
+        "respiratory effects, inorganics"
+    ],
+    "709": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "resources",
+        "dissipated water"
+    ],
+    "710": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "resources",
+        "fossils"
+    ],
+    "711": [
+        "ILCD 2.0 2018 midpoint no LT",
+        "resources",
+        "land use"
+    ],
+    "712": [
+        "IPCC 2013",
+        "climate change",
+        "GTP 100a"
+    ],
+    "713": [
+        "IPCC 2013",
+        "climate change",
+        "GTP 20a"
+    ],
+    "714": [
+        "IPCC 2013",
+        "climate change",
+        "GWP 100a"
+    ],
+    "715": [
+        "IPCC 2013",
+        "climate change",
+        "GWP 20a"
+    ],
+    "716": [
+        "IPCC 2013 no LT",
+        "climate change",
+        "GTP 100a"
+    ],
+    "717": [
+        "IPCC 2013 no LT",
+        "climate change",
+        "GTP 20a"
+    ],
+    "718": [
+        "IPCC 2013 no LT",
+        "climate change",
+        "GWP 100a"
+    ],
+    "719": [
+        "IPCC 2013 no LT",
+        "climate change",
+        "GWP 20a"
+    ],
+    "720": [
+        "ReCiPe Midpoint (E) V1.13",
+        "agricultural land occupation",
+        "ALOP"
+    ],
+    "721": [
+        "ReCiPe Midpoint (E) V1.13",
+        "climate change",
+        "GWP500"
+    ],
+    "722": [
+        "ReCiPe Midpoint (E) V1.13",
+        "fossil depletion",
+        "FDP"
+    ],
+    "723": [
+        "ReCiPe Midpoint (E) V1.13",
+        "freshwater eutrophication",
+        "FEP"
+    ],
+    "724": [
+        "ReCiPe Midpoint (E) V1.13",
+        "ionising radiation",
+        "IRP_HE"
+    ],
+    "725": [
+        "ReCiPe Midpoint (E) V1.13",
+        "marine eutrophication",
+        "MEP"
+    ],
+    "726": [
+        "ReCiPe Midpoint (E) V1.13",
+        "natural land transformation",
+        "NLTP"
+    ],
+    "727": [
+        "ReCiPe Midpoint (E) V1.13",
+        "ozone depletion",
+        "ODPinf"
+    ],
+    "728": [
+        "ReCiPe Midpoint (E) V1.13",
+        "particulate matter formation",
+        "PMFP"
+    ],
+    "729": [
+        "ReCiPe Midpoint (E) V1.13",
+        "photochemical oxidant formation",
+        "POFP"
+    ],
+    "730": [
+        "ReCiPe Midpoint (E) V1.13",
+        "terrestrial acidification",
+        "TAP500"
+    ],
+    "731": [
+        "ReCiPe Midpoint (E) V1.13",
+        "urban land occupation",
+        "ULOP"
+    ],
+    "732": [
+        "ReCiPe Midpoint (E) V1.13",
+        "water depletion",
+        "WDP"
+    ],
+    "733": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "agricultural land occupation",
+        "ALOP"
+    ],
+    "734": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "climate change",
+        "GWP500"
+    ],
+    "735": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "fossil depletion",
+        "FDP"
+    ],
+    "736": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "freshwater ecotoxicity",
+        "FETPinf"
+    ],
+    "737": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "freshwater eutrophication",
+        "FEP"
+    ],
+    "738": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "human toxicity",
+        "HTPinf"
+    ],
+    "739": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "ionising radiation",
+        "IRP_HE"
+    ],
+    "740": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "marine ecotoxicity",
+        "METPinf"
+    ],
+    "741": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "marine eutrophication",
+        "MEP"
+    ],
+    "742": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "natural land transformation",
+        "NLTP"
+    ],
+    "743": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "ozone depletion",
+        "ODPinf"
+    ],
+    "744": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "particulate matter formation",
+        "PMFP"
+    ],
+    "745": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "photochemical oxidant formation",
+        "POFP"
+    ],
+    "746": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "terrestrial acidification",
+        "TAP500"
+    ],
+    "747": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "terrestrial ecotoxicity",
+        "TETPinf"
+    ],
+    "748": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "urban land occupation",
+        "ULOP"
+    ],
+    "749": [
+        "ReCiPe Midpoint (E) V1.13 no LT",
+        "water depletion",
+        "WDP"
+    ],
+    "750": [
+        "ReCiPe Midpoint (H) V1.13",
+        "agricultural land occupation",
+        "ALOP"
+    ],
+    "751": [
+        "ReCiPe Midpoint (H) V1.13",
+        "climate change",
+        "GWP100"
+    ],
+    "752": [
+        "ReCiPe Midpoint (H) V1.13",
+        "fossil depletion",
+        "FDP"
+    ],
+    "753": [
+        "ReCiPe Midpoint (H) V1.13",
+        "freshwater eutrophication",
+        "FEP"
+    ],
+    "754": [
+        "ReCiPe Midpoint (H) V1.13",
+        "ionising radiation",
+        "IRP_HE"
+    ],
+    "755": [
+        "ReCiPe Midpoint (H) V1.13",
+        "marine eutrophication",
+        "MEP"
+    ],
+    "756": [
+        "ReCiPe Midpoint (H) V1.13",
+        "natural land transformation",
+        "NLTP"
+    ],
+    "757": [
+        "ReCiPe Midpoint (H) V1.13",
+        "ozone depletion",
+        "ODPinf"
+    ],
+    "758": [
+        "ReCiPe Midpoint (H) V1.13",
+        "particulate matter formation",
+        "PMFP"
+    ],
+    "759": [
+        "ReCiPe Midpoint (H) V1.13",
+        "photochemical oxidant formation",
+        "POFP"
+    ],
+    "760": [
+        "ReCiPe Midpoint (H) V1.13",
+        "terrestrial acidification",
+        "TAP100"
+    ],
+    "761": [
+        "ReCiPe Midpoint (H) V1.13",
+        "urban land occupation",
+        "ULOP"
+    ],
+    "762": [
+        "ReCiPe Midpoint (H) V1.13",
+        "water depletion",
+        "WDP"
+    ],
+    "763": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "agricultural land occupation",
+        "ALOP"
+    ],
+    "764": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "climate change",
+        "GWP100"
+    ],
+    "765": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "fossil depletion",
+        "FDP"
+    ],
+    "766": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "freshwater ecotoxicity",
+        "FETPinf"
+    ],
+    "767": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "freshwater eutrophication",
+        "FEP"
+    ],
+    "768": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "human toxicity",
+        "HTPinf"
+    ],
+    "769": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "ionising radiation",
+        "IRP_HE"
+    ],
+    "770": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "marine ecotoxicity",
+        "METPinf"
+    ],
+    "771": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "marine eutrophication",
+        "MEP"
+    ],
+    "772": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "natural land transformation",
+        "NLTP"
+    ],
+    "773": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "ozone depletion",
+        "ODPinf"
+    ],
+    "774": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "particulate matter formation",
+        "PMFP"
+    ],
+    "775": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "photochemical oxidant formation",
+        "POFP"
+    ],
+    "776": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "terrestrial acidification",
+        "TAP100"
+    ],
+    "777": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "terrestrial ecotoxicity",
+        "TETPinf"
+    ],
+    "778": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "urban land occupation",
+        "ULOP"
+    ],
+    "779": [
+        "ReCiPe Midpoint (H) V1.13 no LT",
+        "water depletion",
+        "WDP"
+    ],
+    "780": [
+        "ReCiPe Midpoint (I) V1.13",
+        "agricultural land occupation",
+        "ALOP"
+    ],
+    "781": [
+        "ReCiPe Midpoint (I) V1.13",
+        "climate change",
+        "GWP20"
+    ],
+    "782": [
+        "ReCiPe Midpoint (I) V1.13",
+        "fossil depletion",
+        "FDP"
+    ],
+    "783": [
+        "ReCiPe Midpoint (I) V1.13",
+        "freshwater eutrophication",
+        "FEP"
+    ],
+    "784": [
+        "ReCiPe Midpoint (I) V1.13",
+        "ionising radiation",
+        "IRP_I"
+    ],
+    "785": [
+        "ReCiPe Midpoint (I) V1.13",
+        "marine eutrophication",
+        "MEP"
+    ],
+    "786": [
+        "ReCiPe Midpoint (I) V1.13",
+        "natural land transformation",
+        "NLTP"
+    ],
+    "787": [
+        "ReCiPe Midpoint (I) V1.13",
+        "ozone depletion",
+        "ODPinf"
+    ],
+    "788": [
+        "ReCiPe Midpoint (I) V1.13",
+        "particulate matter formation",
+        "PMFP"
+    ],
+    "789": [
+        "ReCiPe Midpoint (I) V1.13",
+        "photochemical oxidant formation",
+        "POFP"
+    ],
+    "790": [
+        "ReCiPe Midpoint (I) V1.13",
+        "terrestrial acidification",
+        "TAP20"
+    ],
+    "791": [
+        "ReCiPe Midpoint (I) V1.13",
+        "urban land occupation",
+        "ULOP"
+    ],
+    "792": [
+        "ReCiPe Midpoint (I) V1.13",
+        "water depletion",
+        "WDP"
+    ],
+    "793": [
+        "cumulative energy demand",
+        "biomass",
+        "renewable energy resources, biomass"
+    ],
+    "794": [
+        "cumulative energy demand",
+        "fossil",
+        "non-renewable energy resources, fossil"
+    ],
+    "795": [
+        "cumulative energy demand",
+        "geothermal",
+        "renewable energy resources, geothermal, converted"
+    ],
+    "796": [
+        "cumulative energy demand",
+        "nuclear",
+        "non-renewable energy resources, nuclear"
+    ],
+    "797": [
+        "cumulative energy demand",
+        "primary forest",
+        "non-renewable energy resources, primary forest"
+    ],
+    "798": [
+        "cumulative energy demand",
+        "solar",
+        "renewable energy resources, solar, converted"
+    ],
+    "799": [
+        "cumulative energy demand",
+        "water",
+        "renewable energy resources, potential (in barrage water), converted"
+    ],
+    "800": [
+        "cumulative energy demand",
+        "wind",
+        "renewable energy resources, kinetic (in wind), converted"
+    ],
+    "801": [
+        "cumulative exergy demand",
+        "biomass",
+        "renewable energy resources, biomass"
+    ],
+    "802": [
+        "cumulative exergy demand",
+        "fossil",
+        "non-renewable energy resources, fossil"
+    ],
+    "803": [
+        "cumulative exergy demand",
+        "nuclear",
+        "non-renewable energy resources, nuclear"
+    ],
+    "804": [
+        "cumulative exergy demand",
+        "primary forest",
+        "non-renewable energy resources, primary forest"
+    ],
+    "805": [
+        "cumulative exergy demand",
+        "solar",
+        "renewable energy resources, solar, converted"
+    ],
+    "806": [
+        "cumulative exergy demand",
+        "water",
+        "renewable energy resources, potential (in barrage water), converted"
+    ],
+    "807": [
+        "cumulative exergy demand",
+        "water resources",
+        "renewable material resources, water"
+    ],
+    "808": [
+        "cumulative exergy demand",
+        "wind",
+        "renewable energy resources, kinetic (in wind), converted"
+    ],
+    "809": [
+        "ecological footprint",
+        "total",
+        "CO2"
+    ],
+    "810": [
+        "ecological footprint",
+        "total",
+        "land occupation"
+    ],
+    "811": [
+        "ecological footprint",
+        "total",
+        "nuclear"
+    ],
+    "812": [
+        "ecological footprint",
+        "total",
+        "total"
+    ],
+    "813": [
+        "ecological scarcity 2013",
+        "POP into water",
+        "total"
+    ],
+    "814": [
+        "ecological scarcity 2013",
+        "carcinogenic substances into air",
+        "total"
+    ],
+    "815": [
+        "ecological scarcity 2013",
+        "energy resources",
+        "total"
+    ],
+    "816": [
+        "ecological scarcity 2013",
+        "global warming",
+        "total"
+    ],
+    "817": [
+        "ecological scarcity 2013",
+        "heavy metals into air",
+        "total"
+    ],
+    "818": [
+        "ecological scarcity 2013",
+        "heavy metals into soil",
+        "total"
+    ],
+    "819": [
+        "ecological scarcity 2013",
+        "heavy metals into water",
+        "total"
+    ],
+    "820": [
+        "ecological scarcity 2013",
+        "land use",
+        "total"
+    ],
+    "821": [
+        "ecological scarcity 2013",
+        "main air pollutants and PM",
+        "total"
+    ],
+    "822": [
+        "ecological scarcity 2013",
+        "non radioactive waste to deposit",
+        "total"
+    ],
+    "823": [
+        "ecological scarcity 2013",
+        "ozone layer depletion",
+        "total"
+    ],
+    "824": [
+        "ecological scarcity 2013",
+        "pesticides into soil",
+        "total"
+    ],
+    "825": [
+        "ecological scarcity 2013",
+        "radioactive substances into air",
+        "total"
+    ],
+    "826": [
+        "ecological scarcity 2013",
+        "radioactive substances into water",
+        "total"
+    ],
+    "827": [
+        "ecological scarcity 2013",
+        "radioactive waste to deposit",
+        "total"
+    ],
+    "828": [
+        "ecological scarcity 2013",
+        "water pollutants",
+        "total"
+    ],
+    "829": [
+        "ecological scarcity 2013",
+        "water resources",
+        "total"
+    ],
+    "830": [
+        "ecological scarcity 2013 no LT",
+        "POP into water",
+        "total"
+    ],
+    "831": [
+        "ecological scarcity 2013 no LT",
+        "carcinogenic substances into air",
+        "total"
+    ],
+    "832": [
+        "ecological scarcity 2013 no LT",
+        "energy resources",
+        "total"
+    ],
+    "833": [
+        "ecological scarcity 2013 no LT",
+        "global warming",
+        "total"
+    ],
+    "834": [
+        "ecological scarcity 2013 no LT",
+        "heavy metals into air",
+        "total"
+    ],
+    "835": [
+        "ecological scarcity 2013 no LT",
+        "heavy metals into soil",
+        "total"
+    ],
+    "836": [
+        "ecological scarcity 2013 no LT",
+        "heavy metals into water",
+        "total"
+    ],
+    "837": [
+        "ecological scarcity 2013 no LT",
+        "land use",
+        "total"
+    ],
+    "838": [
+        "ecological scarcity 2013 no LT",
+        "main air pollutants and PM",
+        "total"
+    ],
+    "839": [
+        "ecological scarcity 2013 no LT",
+        "non radioactive waste to deposit",
+        "total"
+    ],
+    "840": [
+        "ecological scarcity 2013 no LT",
+        "ozone layer depletion",
+        "total"
+    ],
+    "841": [
+        "ecological scarcity 2013 no LT",
+        "pesticides into soil",
+        "total"
+    ],
+    "842": [
+        "ecological scarcity 2013 no LT",
+        "radioactive substances into air",
+        "total"
+    ],
+    "843": [
+        "ecological scarcity 2013 no LT",
+        "radioactive substances into water",
+        "total"
+    ],
+    "844": [
+        "ecological scarcity 2013 no LT",
+        "radioactive waste to deposit",
+        "total"
+    ],
+    "845": [
+        "ecological scarcity 2013 no LT",
+        "water pollutants",
+        "total"
+    ],
+    "846": [
+        "ecological scarcity 2013 no LT",
+        "water resources",
+        "total"
+    ],
+    "847": [
+        "ecosystem damage potential",
+        "total",
+        "linear, land occupation"
+    ],
+    "848": [
+        "ecosystem damage potential",
+        "total",
+        "linear, land transformation"
+    ],
+    "849": [
+        "ecosystem damage potential",
+        "total",
+        "linear, land use, total"
+    ],
+    "850": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Fossil and nuclear energy use"
+    ],
+    "851": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Climate change, short term"
+    ],
+    "852": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Climate change, long term"
+    ],
+    "853": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Land occupation, biodiversity"
+    ],
+    "854": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Land transformation, biodiversity"
+    ],
+    "855": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Mineral resources use"
+    ],
+    "856": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Water scarcity"
+    ],
+    "857": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Freshwater acidification"
+    ],
+    "858": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Terrestrial acidification"
+    ],
+    "859": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Freshwater eutrophication"
+    ],
+    "860": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Marine eutrophication"
+    ],
+    "861": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Freshwater ecotoxicity"
+    ],
+    "862": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Particulate matter formation"
+    ],
+    "863": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Photochemical oxidant formation"
+    ],
+    "864": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Human toxicity cancer"
+    ],
+    "865": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Human toxicity non cancer"
+    ],
+    "866": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Ionizing radiations"
+    ],
+    "867": [
+        "IMPACTWorld+ (Default_Recommended_Midpoint 1.23)",
+        "Midpoint",
+        "Ozone Layer Depletion"
+    ]
+}
